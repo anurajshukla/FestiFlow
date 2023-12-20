@@ -1,6 +1,4 @@
 <div align="center">
-  <br />
-  <br />
 
   <h3 align="center">FestiFlow: A Full Stack Next 14 Events App</h3>
 </div>
