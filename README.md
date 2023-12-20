@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">FestiFlow: A Full Stack Next 14 Events App</h3>
+  <h3 align="center">FestiFlow: A Full Stack Events Registration App</h3>
 </div>
 
 ## <a name="table">Table of Contents</a>
@@ -12,7 +12,7 @@
 
 ## <a name="introduction"> Introduction</a>
 
-Built on Next.js 14, the events application stands as a comprehensive, full-stack platform for managing events. It serves as a hub, spotlighting diverse events taking place globally. Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.
+FestFlow stands as a comprehensive, full-stack platform for managing events. It serves as a hub, spotlighting diverse events taking place in the university. Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event.
 
 ## <a name="tech-stack"> Tech Stack</a>
 
